@@ -1,2 +1,11 @@
-# DiscordBot-Guide
-We are here! We are here to help everyone who Wants to make a Discord Bot.
+# Cod3ret's Guide
+This Guide is here to show you how to easily make a Discord Bot in Javascript.  
+  
+Feel free to Download, or edit the Guide in your own way.
+
+## Installation
+
+**Linux Only**  
+  - To install this on Linux, you need to have `git` and `node` installed.  
+  - Once it's installed, do `git clone https://github.com/Cod3ret/DiscordBot-Guide.git`  
+  - To run, go to the Path of the Bot Folder and type `node .` or `node index`
