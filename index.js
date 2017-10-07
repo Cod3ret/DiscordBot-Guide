@@ -12,4 +12,4 @@ client.on('message', (msg) => { // The message event
     }
 });
 
-client.login("MzY2MDk3NzcyNDkyODgxOTIw.DLn-XQ.C5QFxF7EJQSxLJ_hP6qrbB3YMcw") // Login witht he bot token
+client.login("Your Bot Token") // Login witht he bot token
