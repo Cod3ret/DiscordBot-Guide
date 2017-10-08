@@ -3,6 +3,12 @@ This Guide is here to show you how to easily make a Discord Bot in Javascript.
   
 Feel free to Download, or edit the Guide in your own way.
 
+## Episodes
+  **Q**: How do i move to another Episode?  
+  **A**: Here Chech this  
+  <html>
+  <iframe src="https://giphy.com/embed/26Ff0AB5OU6AMcdSo" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  
+  </html>
 ## Installation
 
 **Linux Only**  
@@ -24,3 +30,4 @@ Feel free to Download, or edit the Guide in your own way.
   <a href ="https://discord.gg/Ye4xYrv">  
       <img src="https://i.imgur.com/1OpN5co.png" alt="Coderet.Codes Discord" style="width:42px;height:42px;border:0;">  
       </a>
+</html>
