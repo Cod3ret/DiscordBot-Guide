@@ -5,10 +5,11 @@ Feel free to Download, or edit the Guide in your own way.
 
 ## Episodes
   **Q**: How do i move to another Episode?  
-  **A**: Here Chech this  
-  <html>
-  <iframe src="https://giphy.com/embed/26Ff0AB5OU6AMcdSo" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  
-  </html>
+  **A**: Here Check this  
+<html>  
+      <img src="https://media.giphy.com/media/26Ff0AB5OU6AMcdSo/giphy.gif" alt="Here it is" style="width:42px;height:42px;border:0;">  
+</html>
+  
 ## Installation
 
 **Linux Only**  
